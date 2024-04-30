@@ -23,7 +23,7 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: ""
+  ui[0]: "some input"
   ui[1]: ""
   ui[2]: ""
   ui[3]: ""
@@ -33,7 +33,7 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
+  uo[0]: "some output"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
@@ -53,8 +53,8 @@ pinout:
   uio[7]: ""
 
   # Analog pins - make sure to also set "analog_pins" above, else the pins won't be connected
-  ua[0]: ""
-  ua[1]: ""
+  ua[0]: "some analog"
+  ua[1]: "some more analog"
   ua[2]: ""
   ua[3]: ""
   ua[4]: ""
